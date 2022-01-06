@@ -6,7 +6,12 @@
 - 👯 I’m looking to collaborate on Blog.
 - 🤔 I’m looking for help with My Blog .
 - 💬 Ask me about Web and App developement and tech related stuff.
-- 📫 How to reach me: > [linkedin- @kameshwar sah](https://in.linkedin.com/in/kameshwar-sah-082914183),[Facebook - kameshwar sah](https://www.instagram.com/er_kameshwar/),[My website:- Bestwebcode](https://bestwebcode.com/),[Instagram er_kameshwarsah](https://www.instagram.com/er_kameshwar/),[Twitter - kameshwarsah31](https://twitter.com/kameshwarsah31)
+- 📫 How to reach me:- 
+- [linkedin- @kameshwar sah](https://in.linkedin.com/in/kameshwar-sah-082914183),
+- [Facebook - kameshwar sah](https://www.instagram.com/er_kameshwar/),
+- [Instagram er_kameshwarsah](https://www.instagram.com/er_kameshwar/),
+- [Twitter - kameshwarsah31](https://twitter.com/kameshwarsah31),
+- [My website:- Bestwebcode](https://bestwebcode.com/),
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I spend almost 4 to 5 hours in Blog. 
 
