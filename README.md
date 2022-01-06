@@ -45,11 +45,7 @@
 
 <img align="left" alt="java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" style="max-width: 100%;">
 
-<img align="left" alt="jsp" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jsp/jsp.png" style="max-width: 100%;">
 
-<img align="left" alt="servlet" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/servlet/servlet.png" style="max-width: 100%;">
-
-<img align="left" alt="spring" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/spring/spring.png" style="max-width: 100%;">
 
 
 
