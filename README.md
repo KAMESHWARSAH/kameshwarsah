@@ -9,7 +9,7 @@
 - 💬 Ask me about Web and App developement and tech related stuff.
 - 📫 How to reach me:- 
 - [linkedin- @kameshwar sah](https://in.linkedin.com/in/kameshwar-sah-082914183),
-- [Facebook - kameshwar sah](https://www.instagram.com/er_kameshwar/),
+- [Facebook - kameshwar sah](https://www.facebook.com/kameshwar.kumar.1048),
 - [Instagram er_kameshwarsah](https://www.instagram.com/er_kameshwar/),
 - [Twitter - kameshwarsah31](https://twitter.com/kameshwarsah31),
 - [My website:- Bestwebcode](https://bestwebcode.com/),
