@@ -2,7 +2,7 @@
 
 
 
-- 🔭 I’m currently working on App and devlopement
+- 🔭 I’m currently working on App and web devlopement
 - 🌱 I’m currently learning Flutter
 - 👯 I’m looking to collaborate on Blog.
 - 🤔 I’m looking for help with My Blog .
