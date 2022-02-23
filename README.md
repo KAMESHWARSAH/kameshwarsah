@@ -1,6 +1,6 @@
 
 <h1 align="center"> Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="50px" style="max-width: 100%;">, I'm Kameshwar Sah</h1>
-<h3 align="center">A Flutter programmer who keeps you alive 😜</h3>
+<h3 align="center">A Flutter programmer apart from Java , PHP, Angular, React, Python & Web Developer,</h3>
 
 - 🔭 I’m currently working on App and web devlopement
 - 🌱 I’m currently learning Flutter
